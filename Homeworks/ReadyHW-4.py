@@ -1,6 +1,7 @@
 #4. ÖDEV
 # Enes GÜNGÖR
 # enesgungor.gs@gmail.com
+# Quiz Notları: 90-100-100-100-100
 
 class Adamasmaca():
     def __init__(self, secret, guess, lives):
