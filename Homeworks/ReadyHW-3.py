@@ -1,6 +1,7 @@
 #3. ödev
 # Enes GÜNGÖR
 # enesgungor.gs@gmail.com
+# Quiz Notları: 90-100-100-100-100
 
 def asal_first(number):
   for j in range(2,number):
