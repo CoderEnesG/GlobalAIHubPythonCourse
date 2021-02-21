@@ -1,7 +1,7 @@
 #2. ÖDEV
 # Enes GÜNGÖR
 # enesgungor.gs@gmail.com
-
+# Quiz Notları: 90-100-100-100-100
 
 
 students = []
