@@ -57,7 +57,6 @@ class Tarif_1(Cooking):
 
   def startCooking(self):
     self.ekle(self.products[1])
-    self.grate(self.products[3])
     self.ekle(self.products[2])
     self.ekle("Baharat")
     self.mix()
