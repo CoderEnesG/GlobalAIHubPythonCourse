@@ -20,7 +20,7 @@ class Adamasmaca():
             if char_left == 0:
                 print("\n Kazandınız !!!")
                 break
-            guess = input("\n Kelime tahmin et: ")
+            guess = input("\n Kelime veya harf tahmin  et: ")
             self.guess += guess
             if guess not in self.secret:
                 self.lives -= 1
